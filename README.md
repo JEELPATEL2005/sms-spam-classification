@@ -1,5 +1,3 @@
-# sms-spam-classification
-
 
 # SMS Spam Classification
 
